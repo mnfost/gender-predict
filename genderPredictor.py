@@ -10,7 +10,6 @@ import numpy as np
 import gensim
 import cPickle as pickle
 import NNet
-reload(NNet)
 from NNet import NeuralNet
 
 
